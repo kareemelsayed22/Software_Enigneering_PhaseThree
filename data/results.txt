@@ -1,0 +1,33 @@
+Query #1: Term=hudson,Category=All,MinPrice=-1.0,MaxPrice=-1.0
+Total 0 matches found.
+
+Query #1: Term=mirror,Category=Decor > Mirrors,MinPrice=-1.0,MaxPrice=-1.0
+Title: Broyhill Venetian Style Accent Mirror
+Category: Decor > Mirrors
+Price: $187.0
+URL: https://kaiyo.com/broyhill-furniture-broyhill-venetian-style-accent-mirror/
+ImageURL: https://images.kaiyo.com/106410/broyhill-furniture/decor/mirrors/venetian-style-accent-mirror_300.jpeg
+
+Title: Broyhill Venetian Style Accent Mirror
+Category: Decor > Mirrors
+Price: $187.0
+URL: https://kaiyo.com/broyhill-furniture-broyhill-venetian-style-accent-mirror-2/
+ImageURL: https://images.kaiyo.com/105664/broyhill-furniture/decor/mirrors/venetian-style-accent-mirror_300.jpeg
+
+Title: Round Framed Accent Mirror
+Category: Decor > Mirrors
+Price: $255.0
+URL: https://kaiyo.com/one-kings-lane-round-framed-accent-mirror/
+ImageURL: https://images.kaiyo.com/111621/one-kings-lane/decor/mirrors/mcs-industries-brand-large-round-mirror_768.jpeg
+
+Total 3 matches found.
+
+Query #1: Term=mirror,Category=Decor > Mirrors,MinPrice=200.0,MaxPrice=600.0
+Title: Round Framed Accent Mirror
+Category: Decor > Mirrors
+Price: $255.0
+URL: https://kaiyo.com/one-kings-lane-round-framed-accent-mirror/
+ImageURL: https://images.kaiyo.com/111621/one-kings-lane/decor/mirrors/mcs-industries-brand-large-round-mirror_768.jpeg
+
+Total 1 matches found.
+

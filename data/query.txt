@@ -1,0 +1,4 @@
+#Term,#Category,#MinPrice,#MaxPrice
+hudson,All,-1,-1,
+mirror,Decor > Mirrors,-1,-1,
+mirror,Decor > Mirrors,200,600
